@@ -165,3 +165,7 @@ cython_debug/
 
 #Ignorar fichero cervezas
 my_first_folder/carpeta cervezas/
+#Volver a ignorar
+	carpeta cervezas/
+#Ignorar cervezas
+carpeta cervezas/post partido
